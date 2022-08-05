@@ -9,16 +9,16 @@ classifiers = [
 ]
  
 setup(
-  name='joshbasiccalculator',
+  name='lordchk',
   version='0.0.1',
-  description='A very basic calculator',
-  long_description=open('README.txt').read() + '\n\n' + open('CHANGELOG.txt').read(),
+  description='A very basic Checker Module',
+  long_description=open('README.txt').read() + '\n\n',
   url='',  
-  author='Joshua Lowe',
-  author_email='josh@edublocks.org',
+  author='yusiqo',
+  author_email='yusiqo10@gmail.com,
   license='MIT', 
   classifiers=classifiers,
-  keywords='calculator', 
+  keywords='lordchk', 
   packages=find_packages(),
-  install_requires=[''] 
+  install_requires=['requests'] 
 )
