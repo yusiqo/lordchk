@@ -1,0 +1,2 @@
+def instachk():
+    print("sa")
